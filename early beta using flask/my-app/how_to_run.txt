@@ -1,0 +1,9 @@
+1. type "npm run start" into the terminal
+
+2. run ngrok.exe
+
+3. type ngrok http 3000
+
+for python type "ngrok http 5000"
+
+
